@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "bradlc.vscode-tailwindcss",
+      "dsznajder.es7-react-js-snippets",
+      "xabikos.ReactSnippets",
+      "formulahendry.auto-rename-tag",
+      "formulahendry.auto-close-tag",
+      "christian-kohler.path-intellisense",
+      "yoavbls.pretty-ts-errors",
+      "usernamehw.errorlens",
+      "eamodio.gitlens",
+      "GitHub.copilot",
+      "GitHub.copilot-chat",
+      "ms-vscode.vscode-typescript-next",
+      "ms-vscode.live-server",
+      "rangav.vscode-thunder-client",
+      "ms-azuretools.vscode-docker",
+      "firebase.firebase-vscode"
+    ]
+  }
